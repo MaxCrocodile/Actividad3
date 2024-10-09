@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 1.Aprender Java
 2.Aprender Git/GitHub
 3.Aprender HTML/CSS/JavaScript
+=======
+>>>>>>> parent of 37d8845 (objectivo 1)
